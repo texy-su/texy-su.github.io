@@ -1,6 +1,5 @@
-
-# www.robotstxt.org
-
-# Allow crawling of all content
+# Disallow crawling of all content while  site under construction
 User-agent: *
-Disallow:
+#Allow:
+Disallow: /
+#Crawl-delay: 2
