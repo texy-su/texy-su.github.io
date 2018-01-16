@@ -1,2 +1,2 @@
 # texy-su.github.io
-texy.su static site
+http://texy.su site repository
